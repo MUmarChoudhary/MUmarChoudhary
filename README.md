@@ -4,7 +4,7 @@ Hi I'm Umar! A passionate coder exploring the world of **AI/ML**
 - 🌱 As an IELTS-certified professional, I've honed my skills in Speaking, Listening, Writing, and Reading.
 - 🧠 Constant learner, eager to apply skills in AI, Software Development & Web Development
 - 🎯 My mission is to build interesting projects in software development, AI, or web development to apply my skills and grow professionally.
-- ⚡ I’m a high-achiever with a strong academic background, and I have a proven track record of task completion during my Python internship and driving engagement growth as       an IEEE Sponsorship member.
+- ⚡ I’m a high-achiever with a strong academic background, and I have a proven track record of task completion during my Python internship and driving engagement growth as         an IEEE Sponsorship member.
 
 **🌐Social Links:**
 
