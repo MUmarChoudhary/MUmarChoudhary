@@ -45,6 +45,6 @@ Hi I'm Umar! A passionate coder exploring the world of **AI/ML**
 
 **📊 GitHub Stats:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noor3800&show_icons=true&theme=tokyonight&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noor3800&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noor3800&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUmarChoudhary&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MUmarChoudhary&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarChoudhary&layout=compact&theme=dracula)
